@@ -1,0 +1,18 @@
+/* common */
+body {
+  margin: 0;
+}
+
+
+td, tr, th {
+  border: 1px solid grey;
+
+}
+td {
+  padding: 4px;
+}
+
+.special-tag {
+  text-align: center;
+  margin: auto;
+}
